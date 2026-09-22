@@ -1,0 +1,23 @@
+Date,Open,High,Low,Close,Reason,CloseReturn
+2014-01-01,,,,,missing OHLC,
+2014-02-17,,,,,missing OHLC,
+2014-03-22,,,,,missing OHLC,
+2014-04-24,,,,,missing OHLC,
+2014-10-15,,,,,missing OHLC,
+2015-01-01,,,,,missing OHLC,
+2015-02-28,,,,,missing OHLC,
+2015-04-15,,,,,missing OHLC,
+2016-01-01,,,,,missing OHLC,
+2016-08-12,,,,,missing OHLC,
+2018-01-01,,,,,missing OHLC,
+2019-01-01,,,,,missing OHLC,
+2019-10-27,,,,,missing OHLC,
+2020-11-14,,,,,missing OHLC,
+2026-01-15,,,,,missing OHLC,
+2026-05-01,,,,,missing OHLC,
+2026-05-28,,,,,missing OHLC,
+2026-06-26,,,,,missing OHLC,
+2020-03-12,10039.9501953125,10040.75,9508.0,9590.150390625,large close return >8% or intraday range >10%; retained,-0.08301938801064712
+2020-03-13,9107.599609375,10159.400390625,8555.150390625,9955.2001953125,large close return >8% or intraday range >10%; retained,0.03806507612689369
+2020-03-23,7945.7001953125,8159.25,7583.60009765625,7610.25,large close return >8% or intraday range >10%; retained,-0.12980466070471242
+2020-04-07,8446.2998046875,8819.400390625,8360.9501953125,8792.2001953125,large close return >8% or intraday range >10%; retained,0.08763210467115035

@@ -1,0 +1,9 @@
+Date,PreviousDate,CalendarDays,MissingOHLCSourceRows,Classification
+2014-10-07,2014-10-01,6.0,0,calendar gap: holiday status unverified
+2014-10-27,2014-10-22,5.0,0,calendar gap: holiday status unverified
+2015-04-06,2015-04-01,5.0,0,calendar gap: holiday status unverified
+2016-03-28,2016-03-23,5.0,0,calendar gap: holiday status unverified
+2016-04-18,2016-04-13,5.0,0,calendar gap: holiday status unverified
+2016-08-16,2016-08-11,5.0,1,data-quality: source row lacks OHLC
+2018-04-02,2018-03-28,5.0,0,calendar gap: holiday status unverified
+2022-04-18,2022-04-13,5.0,0,calendar gap: holiday status unverified

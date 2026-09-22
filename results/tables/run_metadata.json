@@ -1,0 +1,34 @@
+{
+  "config": {
+    "threshold": -0.02,
+    "holding_period": 5,
+    "cost_bps_per_side": 5,
+    "slippage_bps_per_side": 5,
+    "overlap": "nonoverlap",
+    "split_date": "2022-01-01",
+    "bootstrap_draws": 3000,
+    "seed": 20260922
+  },
+  "raw_sha256": "791448910a6895907e44c4ef2a38490afa03baea6abd0e8eb712bc136973373d",
+  "validation": {
+    "raw_rows": 3337,
+    "date_min": "2013-01-02",
+    "date_max": "2026-07-07",
+    "wrong_order_transitions": 0,
+    "invalid_dates": 0,
+    "duplicate_date_rows": 0,
+    "exact_duplicate_rows": 0,
+    "missing_ohlc_rows": 18,
+    "invalid_ohlc_rows": 0,
+    "excluded_rows": 18,
+    "clean_rows": 3319,
+    "absent_weekdays_including_holidays": 207,
+    "gaps_over_four_calendar_days": 8,
+    "long_gaps_with_missing_source_row": 1,
+    "suspicious_retained_rows": 4
+  },
+  "backtest": {
+    "backtest_executed": false,
+    "gate": "both development and OOS net-excess 95% CI lower bounds > 0"
+  }
+}

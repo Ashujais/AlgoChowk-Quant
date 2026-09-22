@@ -1,0 +1,4 @@
+{
+  "backtest_executed": false,
+  "gate": "both development and OOS net-excess 95% CI lower bounds > 0"
+}
